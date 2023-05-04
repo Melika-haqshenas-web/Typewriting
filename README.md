@@ -6,7 +6,7 @@
 
 ![2](https://user-images.githubusercontent.com/126666369/236277212-e405e8de-8902-4aca-a62e-59bfedd4cf31.jpg)
 
-- [Demo Project](https://melika-haqshenas-web.github.io/Building-Site/)
+- [Demo Project](https://melika-haqshenas-web.github.io/Typewriting/)
 
 👩‍💻- Developed by Melika-haqshenas-web
 
