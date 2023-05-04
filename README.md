@@ -2,9 +2,9 @@
 
 ⌨**Give information by typing**
 
-![earth1](https://user-images.githubusercontent.com/126666369/236171436-5b5132c4-9687-4c83-b06c-9a64cf0e5e6c.jpg)
+![1](https://user-images.githubusercontent.com/126666369/236277197-fbbfff8a-ac25-447f-a87f-1b7a8d7eab0c.jpg)
 
-![earth2](https://user-images.githubusercontent.com/126666369/236171447-e2eadf89-4b9e-4d23-9e98-e7fc31d2ce4e.jpg)
+![2](https://user-images.githubusercontent.com/126666369/236277212-e405e8de-8902-4aca-a62e-59bfedd4cf31.jpg)
 
 - [Demo Project](https://melika-haqshenas-web.github.io/Building-Site/)
 
